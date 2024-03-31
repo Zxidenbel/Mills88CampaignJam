@@ -1,0 +1,10 @@
+{
+	"id": "...",
+	"name": "...",
+	"version": "0.0.0",
+	"authors": "Zxidenbel, Ovidia",
+	"description": "Created for Mills88's April 2024 Campaign Jam.",
+	"requirements": ["slime-cubed.slugbase"],
+	"requirements_names": ["SlugBase"],
+	"tags": ["Slugcats"]
+}

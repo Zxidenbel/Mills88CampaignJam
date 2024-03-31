@@ -1,0 +1,11 @@
+{
+  "id": "Slugcat",
+  "name": "The Slugcat",
+  "description": "",
+  "features": {
+    "start_room": "",
+    "select_menu_scene": "Slugcat_slugcat",
+    "select_menu_scene_ascended": "Slugcat_slugcat",
+    "sleep_scene": "Sleep_slugcat",
+  }
+}
