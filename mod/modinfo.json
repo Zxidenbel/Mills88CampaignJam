@@ -2,7 +2,7 @@
 	"id": "...",
 	"name": "...",
 	"version": "0.0.0",
-	"authors": "Zxidenbel, Ovidia",
+	"authors": "Ovidia, Zxidenbel, Froggle0",
 	"description": "Created for Mills88's April 2024 Campaign Jam.",
 	"requirements": ["slime-cubed.slugbase"],
 	"requirements_names": ["SlugBase"],
