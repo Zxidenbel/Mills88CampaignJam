@@ -1,0 +1,35 @@
+{
+  "id": "Denizen",
+  "name": "The Denizen",
+  "description": "Agile and self-sufficient, the Denizen chooses a life in the harsh wilderness.",
+  "features": {
+    "color": "D1C758",
+    "custom_colors": [
+      { "name": "Body", "story": "D1C758" },
+      { "name": "Eyes", "story": "161404" }
+    ],
+    "start_room": "SL_D06",
+    "food_min": 4,
+    "food_max": 7,
+    "diet": {
+      "base": "White"
+    },
+    "weight": 1,
+    "climb_speed": 1.4,
+    "crouch_stealth": [1.5, 1.1],
+    "throw_skill": 1,
+    "lung_capacity": 2.2,
+    "can_maul": true,
+    "maul_damage": 0.8,
+    "back_spear": false,
+    "the_mark": false,
+    "the_glow": false,
+    "karma": 3,
+    "karma_cap": 5,
+    "cycle_length_min": 5.8,
+    "cycle_length_max": 8,
+    "world_state": [ "Denizen", "Gourmand", "White" ],
+    "expedition_enabled": false,
+    "expedition_description": "Agile and self-sufficient, <LINE>the Denizen chooses a life in the harsh wilderness."
+  }
+}
