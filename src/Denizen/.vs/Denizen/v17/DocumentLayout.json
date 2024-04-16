@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|c:\\users\\chris\\documents\\github\\mills88campaignjam\\src\\denizen\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|c:\\users\\chris\\documents\\github\\mills88campaignjam\\src\\denizen\\denizen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|solutionrelative:denizen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|c:\\users\\chris\\documents\\github\\mills88campaignjam\\src\\denizen\\boulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|solutionrelative:boulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|c:\\users\\chris\\documents\\github\\mills88campaignjam\\src\\denizen\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893E1CE2-BC30-47DF-9184-BC03456D7F71}|Denizen.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Boulder.cs",
               "DocumentMoniker": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Boulder.cs",
               "RelativeDocumentMoniker": "Boulder.cs",
               "ToolTip": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Boulder.cs",
               "RelativeToolTip": "Boulder.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAmwC4AAAAjAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T22:13:00.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T22:13:00.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Denizen.csproj",
               "DocumentMoniker": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Denizen.csproj",
               "RelativeDocumentMoniker": "Denizen.csproj",
               "ToolTip": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Denizen.csproj",
               "RelativeToolTip": "Denizen.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-14T21:31:30.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Plugin.cs",
               "DocumentMoniker": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
               "ToolTip": "C:\\Users\\Chris\\Documents\\GitHub\\Mills88CampaignJam\\src\\Denizen\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBkAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T21:21:01.208Z",
               "EditorCaption": ""

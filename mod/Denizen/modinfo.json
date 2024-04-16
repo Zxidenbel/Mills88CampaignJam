@@ -1,8 +1,8 @@
 {
 	"id": "Mills88CampaignJam.Denizen",
 	"name": "The Denizen",
-	"version": "0.0.0",
-	"authors": "Ovidia, Zxidenbel, Froggle0",
+	"version": "0.0.1",
+	"authors": "Ovidia, Zxidenbel, Froggle0, AshenSplash",
 	"description": "Created for Mills88's April 2024 Campaign Jam.",
 	"requirements": ["slime-cubed.slugbase", "fisobs"],
 	"requirements_names": ["SlugBase", "Fisobs"],

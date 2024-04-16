@@ -7,10 +7,11 @@ namespace Denizen
 {
     [BepInDependency("slime-cubed.slugbase", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("fisobs", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInPlugin("Mills88CampaignJam.Denizen", "The Denizen", "0.0.0")]
+    [BepInPlugin("Mills88CampaignJam.Denizen", "The Denizen", "0.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         public static readonly PlayerFeature<float> SwimSpeed = FeatureTypes.PlayerFloat("swim_speed");
+        public static readonly PlacedObject.Type Boulder = new PlacedObject.Type("Boulder", true);
 
         void OnEnable()
         {

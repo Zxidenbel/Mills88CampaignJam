@@ -79,11 +79,18 @@ namespace Denizen.Objects
             return true;
         }
 
+        // from Rock class
         public override void InitiateSprites(RoomCamera.SpriteLeaser sLeaser, RoomCamera rCam)
         {
-            sLeaser.sprites = new FSprite[1];
-            sLeaser.sprites[0] = new FSprite("Rock", true);
-            AddToContainer(sLeaser, rCam, null);
+            sLeaser.sprites = new FSprite[2];
+            UnityEngine.Random.State state = UnityEngine.Random.state;
+            UnityEngine.Random.InitState(this.abstractPhysicalObject.ID.RandomSeed);
+            sLeaser.sprites[0] = new FSprite("Pebble1", true);
+            UnityEngine.Random.state = state;
+            TriangleMesh.Triangle[] tris = new TriangleMesh.Triangle[] { new TriangleMesh.Triangle(0, 1, 2) };
+            TriangleMesh triangleMesh = new TriangleMesh("Futile_White", tris, false, false);
+            sLeaser.sprites[1] = triangleMesh;
+            this.AddToContainer(sLeaser, rCam, null);
         }
 
         // from Rock class
@@ -126,6 +133,14 @@ namespace Denizen.Objects
             {
                 sLeaser.CleanSpritesAndRemove();
             }
+        }
+
+        // from Rock class 
+        public override void ApplyPalette(RoomCamera.SpriteLeaser sLeaser, RoomCamera rCam, RoomPalette palette)
+        {
+            this.color = palette.blackColor;
+            sLeaser.sprites[0].color = this.color;
+            sLeaser.sprites[1].color = this.color;
         }
     }
 
