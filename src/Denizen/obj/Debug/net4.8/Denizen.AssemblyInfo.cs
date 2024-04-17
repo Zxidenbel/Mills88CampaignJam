@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Denizen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b119dae8d9623fafb7f83c655b6d1dc537ce52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44ee989d65cc7f7e844da0a4c4baa3ff05eb597")]
 [assembly: System.Reflection.AssemblyProductAttribute("Denizen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Denizen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,11 +8,12 @@
       { "name": "Body", "story": "D1C758" },
       { "name": "Eyes", "story": "161404" }
     ],
-    "start_room": ["SU_A22"],
+    "start_room": ["LM_F02", "SU_A22"],
     "food_min": 4,
     "food_max": 7,
     "diet": {
-      "base": "White"
+      "base": "White",
+      "corpses": 1
     },
     "weight": 1,
     "climb_speed": 1.4,
@@ -20,7 +21,7 @@
     "throw_skill": 1,
     "lung_capacity": 2.2,
     "can_maul": true,
-    "maul_damage": 0.8,
+    "maul_damage": 3,
     "back_spear": false,
     "the_mark": false,
     "the_glow": false,

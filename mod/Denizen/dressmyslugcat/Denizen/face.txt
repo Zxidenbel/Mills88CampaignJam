@@ -1,6 +1,6 @@
 {"frames": {
 
-"DenizenFaceA0.png":
+"FaceA0.png":
 {
 	"frame": {"x":2,"y":2,"w":46,"h":48},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA1.png":
+"FaceA1.png":
 {
 	"frame": {"x":50,"y":2,"w":46,"h":48},
 	"rotated": false,
@@ -16,7 +16,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA2.png":
+"FaceA2.png":
 {
 	"frame": {"x":98,"y":2,"w":46,"h":48},
 	"rotated": false,
@@ -24,7 +24,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA3.png":
+"FaceA3.png":
 {
 	"frame": {"x":146,"y":2,"w":46,"h":48},
 	"rotated": false,
@@ -32,7 +32,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA4.png":
+"FaceA4.png":
 {
 	"frame": {"x":194,"y":2,"w":46,"h":48},
 	"rotated": false,
@@ -40,7 +40,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA5.png":
+"FaceA5.png":
 {
 	"frame": {"x":2,"y":52,"w":46,"h":48},
 	"rotated": false,
@@ -48,7 +48,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA6.png":
+"FaceA6.png":
 {
 	"frame": {"x":50,"y":52,"w":46,"h":48},
 	"rotated": false,
@@ -56,7 +56,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA7.png":
+"FaceA7.png":
 {
 	"frame": {"x":98,"y":52,"w":46,"h":48},
 	"rotated": false,
@@ -64,7 +64,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceA8.png":
+"FaceA8.png":
 {
 	"frame": {"x":146,"y":52,"w":46,"h":48},
 	"rotated": false,
@@ -72,7 +72,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB0.png":
+"FaceB0.png":
 {
 	"frame": {"x":194,"y":52,"w":46,"h":48},
 	"rotated": false,
@@ -80,7 +80,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB1.png":
+"FaceB1.png":
 {
 	"frame": {"x":2,"y":102,"w":46,"h":48},
 	"rotated": false,
@@ -88,7 +88,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB2.png":
+"FaceB2.png":
 {
 	"frame": {"x":50,"y":102,"w":46,"h":48},
 	"rotated": false,
@@ -96,7 +96,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB3.png":
+"FaceB3.png":
 {
 	"frame": {"x":98,"y":102,"w":46,"h":48},
 	"rotated": false,
@@ -104,7 +104,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB4.png":
+"FaceB4.png":
 {
 	"frame": {"x":146,"y":102,"w":46,"h":48},
 	"rotated": false,
@@ -112,7 +112,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB5.png":
+"FaceB5.png":
 {
 	"frame": {"x":194,"y":102,"w":46,"h":48},
 	"rotated": false,
@@ -120,7 +120,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB6.png":
+"FaceB6.png":
 {
 	"frame": {"x":2,"y":152,"w":46,"h":48},
 	"rotated": false,
@@ -128,7 +128,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB7.png":
+"FaceB7.png":
 {
 	"frame": {"x":50,"y":152,"w":46,"h":48},
 	"rotated": false,
@@ -136,7 +136,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceB8.png":
+"FaceB8.png":
 {
 	"frame": {"x":98,"y":152,"w":46,"h":48},
 	"rotated": false,
@@ -144,7 +144,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceDead.png":
+"FaceDead.png":
 {
 	"frame": {"x":146,"y":152,"w":46,"h":48},
 	"rotated": false,
@@ -152,7 +152,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":48},
 	"sourceSize": {"w":46,"h":48}
 },
-"DenizenFaceStunned.png":
+"FaceStunned.png":
 {
 	"frame": {"x":194,"y":152,"w":46,"h":48},
 	"rotated": false,
