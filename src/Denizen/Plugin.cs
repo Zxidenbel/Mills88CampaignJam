@@ -7,7 +7,7 @@ using UnityEngine;
 namespace Denizen
 {
     [BepInDependency("slime-cubed.slugbase", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInPlugin("oefans.denizen", "The Denizen", "0.3.4")]
+    [BepInPlugin("oefans.denizen", "The Denizen", "0.3.5")]
     public class Plugin : BaseUnityPlugin
     {
         public static readonly PlacedObject.Type Boulder = new PlacedObject.Type("Boulder", true);

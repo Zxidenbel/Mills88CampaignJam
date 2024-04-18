@@ -1,0 +1,6 @@
+{
+	"id": "DenizenSleep",
+	"scene_folder": "scenes/DenizenSleep",
+	"images": [],
+	"idle_depths": [1.1, 1.4],
+}

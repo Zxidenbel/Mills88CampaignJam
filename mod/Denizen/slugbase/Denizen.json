@@ -13,24 +13,40 @@
     "food_max": 7,
     "diet": {
       "base": "White",
+      "meats": 1,
+      "plants": 0.5,
       "corpses": 1
     },
+
+    "alignments": { 
+      "Scavengers": { "like": 0.10, "strength": 1.0 } 
+    },
+
     "weight": 1,
+    "walk_speed": [0.95, 0.85],
     "climb_speed": 1.4,
+    "loudness": 1,
     "crouch_stealth": [1.5, 1.1],
     "throw_skill": 1,
-    "lung_capacity": 2.2,
+    "lung_capacity": 3,
+
     "can_maul": true,
+    "maul_blacklist": [ "Scavenger" ],
     "maul_damage": 3,
     "back_spear": false,
+
     "the_mark": false,
     "the_glow": false,
     "karma": 2,
     "karma_cap": 4,
-    "cycle_length_min": 5.8,
-    "cycle_length_max": 8,
+
+    "cycle_length_min": 7.8,
+    "cycle_length_max": 11,
     "world_state": [ "Denizen", "Spear", "White" ],
     "expedition_enabled": false,
-    "expedition_description": "Agile and self-sufficient, <LINE>the Denizen chooses a life in the harsh wilderness."
+    "expedition_description": "Agile and self-sufficient, <LINE>the Denizen chooses a life in the harsh wilderness.",
+
+    "select_menu_scene": "DenizenSelect",
+    "sleep_scene": "DenizenSleep"
   }
 }
