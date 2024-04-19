@@ -1,0 +1,13 @@
+WaveSpeed: 0.5
+WaveLength: 0.9782609
+WaveAmplitude: 0.02173913
+SecondWaveLength: 0
+SecondWaveAmplitude: 0
+Grime: 0.25
+Palette: 11
+EffectColorA: 14
+EffectColorB: 7
+Effects: SilenceWater-0.5-37-304, WaterDepth-0.173913-20-20, Fog-0.06521739-30-30, SkyAndLightBloom-0.2608696-12-137, 
+PlacedObjects: ExitSymbolHidden><236.6997><103.4896><, ExitSymbolHidden><733.416><106.6116><, LightSource><501.9439><243.1916><0.3586957~Environment~-413~159~50~86.60254~1~0~None~0~0, NoSpearStickZone><479.445><244.6849><206~133, 
+FadePalette: 35, 0.5543478
+MorePalette0: 3, 0.3586957
