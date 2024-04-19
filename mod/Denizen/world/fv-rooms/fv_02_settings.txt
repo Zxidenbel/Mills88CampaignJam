@@ -1,0 +1,11 @@
+RainIntensity: 0.5
+RumbleIntensity: 0.6521739
+Grime: 0.1521739
+Palette: 11
+EffectColorA: 14
+EffectColorB: 7
+Effects: WaterDepth-0.07608695-20-20, SilenceWater-0.4021739-30-30, SkyDandelions-0.3043478-252-112, SkyAndLightBloom-0.1847826-17-89, FireFlies-0.07608695-42-139, RockFlea-0.2717391-256-144, RedSwarmer-0.2173913-179-17, Beetle-0.2065217-236-70, WaterGlowworm-0.2608696-417-15, LightRain-0.08695652-40-40, MossWaterRGB-0.4565217-267-308-Green:124.1196-Red:97.06518-Height:0.3369565-Green:124.1196-Red:97.06518-Height:0.3369565, AboveCloudsView-1-50-50, 
+PlacedObjects: LightSource><349.6785><1510.813><0.1956522~Environment~692~-894~313~-294.3975~1~1~None~0~0, Vine><-11.76538><1250.051><197~111, Vine><218.597><1398.122><433~-99, Vine><95.55374><1074.038><387~-140, WaterNut><490.6023><983.6155><-240~110~2~3, WaterNut><521.1999><972.4929><-168~183~2~3, DeadSeedCob><64.18927><1197.815><, DeadSeedCob><105.1365><1183.665><, FlyLure><141.8591><987.1084><0~0~4~9, LightBeam><97.76678><939.551><169~575~373~577~536~-5~374~114~0.4217397~0~0~1~None~0~0, 
+FadePalette: 35, 0.6521739, 0.5326087
+MorePalette0: 3, 0.4021739, 0.8586956
+BackgroundType: atc_default_msc
