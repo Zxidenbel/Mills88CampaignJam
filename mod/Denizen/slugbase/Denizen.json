@@ -47,6 +47,5 @@
     "expedition_description": "Agile and self-sufficient, <LINE>the Denizen chooses a life in the harsh wilderness.",
 
     "select_menu_scene": "DenizenSelect",
-    "sleep_scene": "DenizenSleep"
   }
 }
