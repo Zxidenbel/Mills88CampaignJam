@@ -1,0 +1,12 @@
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 5
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.35
+overseersMin: 3
+overseersMax: 9
+playerGuideOverseerSpawnChance: 0,6
+pupSpawnChance: 0.1
+GlacialWasteland: 0
+Room Setting Templates: Up, Caverns, Aqueducts
+Subregion: Flooded Verdure
