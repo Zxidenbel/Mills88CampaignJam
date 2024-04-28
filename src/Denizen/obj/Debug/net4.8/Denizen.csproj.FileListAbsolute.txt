@@ -2,7 +2,6 @@ C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Denizen.pdb
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Assembly-CSharp-firstpass.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\BepInEx.dll
-C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Fisobs.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\HOOKS-Assembly-CSharp.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Mono.Cecil.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Mono.Cecil.Rocks.dll
@@ -14,7 +13,6 @@ C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\UnityEngine.CoreModule.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\UnityEngine.dll
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\BepInEx.xml
-C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\Fisobs.xml
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\MonoMod.RuntimeDetour.xml
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\MonoMod.Utils.xml
 C:\Users\Chris\Documents\GitHub\Mills88CampaignJam\src\Denizen\bin\Debug\net4.8\SlugBase.xml

@@ -13,14 +13,15 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Remove="Boulder.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Reference Include="Assembly-CSharp-firstpass">
 	    <HintPath>..\..\lib\Assembly-CSharp-firstpass.dll</HintPath>
 	  </Reference>
 	  <Reference Include="BepInEx">
 	    <HintPath>..\..\lib\BepInEx.dll</HintPath>
-	  </Reference>
-	  <Reference Include="Fisobs">
-	    <HintPath>..\..\lib\Fisobs.dll</HintPath>
 	  </Reference>
 	  <Reference Include="HOOKS-Assembly-CSharp">
 	    <HintPath>..\..\lib\HOOKS-Assembly-CSharp.dll</HintPath>

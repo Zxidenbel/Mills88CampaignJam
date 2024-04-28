@@ -1,22 +1,17 @@
 ﻿using BepInEx;
-using Fisobs.Core;
-using Denizen.Objects;
 using SlugBase;
 using UnityEngine;
 
 namespace Denizen
 {
     [BepInDependency("slime-cubed.slugbase", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInPlugin("oefans.denizen", "The Denizen", "0.3.5")]
+    [BepInPlugin("oefans.denizen", "The Denizen", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
-        public static readonly PlacedObject.Type Boulder = new PlacedObject.Type("Boulder", true);
-
         void OnEnable()
         {
             On.Player.Update += Player_Update;
             On.PlayerGraphics.Update += Player_Graphics_Update;
-            Content.Register(new BoulderFisob());
         }
 
         private void Player_Update(On.Player.orig_Update orig, Player self, bool eu)
