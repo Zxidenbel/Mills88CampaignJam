@@ -1,0 +1,9 @@
+Grime: 0.1521739
+Palette: 11
+EffectColorA: 14
+EffectColorB: 7
+Effects: Desaturation-0.2717391-815-385, Darkness-0.4130435-30-30, LightBurn-0.04347826-20-20, 
+PlacedObjects: LightSource><321.3355><114.6138><0.09782609~EffectColor1~2~89~28~248.6025~0~1~None~0~0, LightSource><563><113><0.09782615~EffectColor1~2~89~28~248.6025~0~1~None~0~0, LightSource><807.9958><115.0001><0.08695652~EffectColor1~2~89~28~248.6025~0~1~None~0~0, LightSource><329.4489><296.7715><0.04347826~Environment~-234~119~414~-155.3975~0~1~None~0~0, LightSource><519><296><0.04347826~Environment~-234~119~-523~-24.39746~0~1~None~0~0, LightSource><798><270><0.04347826~Environment~-234~119~-206~191.6025~0~1~None~0~0, ShelterBhvrManager><-159.1059><306.0804><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrTriggerZone><251.3997><160.6174><379~234, ShelterBhvrSpawnPosition><562.2571><248.9499><, ShelterBhvrSpawnPosition><428.4207><257.8543><, ShelterBhvrSpawnPosition><320.5564><250.5503><, 
+FadePalette: 35, 0.5326087
+MorePalette0: 3, 0.8586956
+MorePalette1: 10, 0.1086956
