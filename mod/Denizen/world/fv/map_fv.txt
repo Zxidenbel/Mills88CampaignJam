@@ -1,0 +1,14 @@
+FV_01: -417><-52.5><-326><-71><1><Flooded Verdure
+FV_02: -186><-103.5><-172><-145><1><Flooded Verdure
+FV_03: -594><-51><-444><-70><1><Flooded Verdure
+FV_04: -93><30><-110><-16><2><Flooded Verdure
+GATE_SL_FV: -747><-49.5><-546><-69><0><
+FV_S02: -39><-166.5><-74><-147><1><
+OffScreenDen_fv: -165><129><-174><76><0><
+FV_S01: -696><-159><-512><-142><0><
+Connection: FV_01,FV_02,44,13,2,51,0,2
+Connection: FV_01,FV_03,6,4,44,6,2,0
+Connection: FV_02,FV_04,30,51,7,8,0,3
+Connection: FV_02,FV_S02,44,9,6,10,0,2
+Connection: FV_03,GATE_SL_FV,3,11,45,9,2,0
+Connection: GATE_SL_FV,FV_S01,36,5,18,25,3,2

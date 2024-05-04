@@ -1,0 +1,13 @@
+RainIntensity: 0.5
+RumbleIntensity: 0.6521739
+Grime: 0.1521739
+Palette: 11
+EffectColorA: 14
+EffectColorB: 7
+Effects: AboveCloudsView-1-301-4, DayNight-0.4021739-49-100, SkyAndLightBloom-0.06521739-48-149, SkyDandelions-0.4021739-50-4, LightRain-0.1086956-50-51, FireFlies-0.07608695-299-149, Beetle-0.2065217-552-4, RedSwarmer-0.2173913-300-100, RockFlea-0.2717391-301-51, 
+PlacedObjects: LightSource><110.1204><705.5903><0.1521739~Environment~1007~-738~-41~-185.3975~1~1~None~0~0, LightSource><839.5925><696.3734><0.1521739~Environment~-979~-729~-360~-187.3974~1~1~None~0~0, DandelionPatch><149.1394><308.0833><0~100, 
+FadePalette: 35, 0.6521739
+MorePalette0: 2, 0.4021739
+MorePalette1: 3, 0.2065217
+BackgroundOffset: 0,869.565
+BackgroundType: atc_default_msc
