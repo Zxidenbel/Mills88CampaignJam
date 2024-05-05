@@ -8,7 +8,7 @@
       { "name": "Body", "story": "D1C758" },
       { "name": "Eyes", "story": "161404" }
     ],
-    "start_room": ["LM_F02", "SU_A22"],
+    "start_room": ["FV_S01", "LM_F02", "SU_A22"],
     "food_min": 4,
     "food_max": 7,
     "diet": {
@@ -47,5 +47,7 @@
     "expedition_description": "Agile and self-sufficient, <LINE>the Denizen chooses a life in the harsh wilderness.",
 
     "select_menu_scene": "DenizenSelect",
+    "sleep_scene": "DenizenSleep",
+    "intro_slideshow": "Denizen_Intro"
   }
 }

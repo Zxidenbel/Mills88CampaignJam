@@ -1,6 +1,7 @@
 {
 	"id": "DenizenSleep",
 	"scene_folder": "scenes/DenizenSleep",
-	"images": [],
+	"images": [
+                { "name": "DenizenSleep", "pos": [0, 0], "depth": 3.0, "shader": "Basic" },],
 	"idle_depths": [1.1, 1.4],
 }

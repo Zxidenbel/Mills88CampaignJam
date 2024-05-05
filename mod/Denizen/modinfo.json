@@ -1,7 +1,7 @@
 {
 	"id": "oefans.denizen",
 	"name": "The Denizen",
-	"version": "0.5.0",
+	"version": "1.0.0",
 	"authors": "Ovidia, Zxidenbel, Froggle0, AshenSplash",
 	"description": "Created for Mills88's April 2024 Campaign Jam.",
 	"requirements": ["slime-cubed.slugbase", "dressmyslugcat", "crs", "regionkit"],

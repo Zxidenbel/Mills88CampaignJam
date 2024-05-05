@@ -1,0 +1,102 @@
+{
+  "id": "Denizen_Intro",
+  "slideshow_folder": "slugbase/slideshows/denizen_intro",
+  "next_process": "Game",
+  "music": {
+    "name": "mangroves_intro",
+    "fade_in": 20
+  },
+  "scenes": [
+    {
+      "name": "scene1",
+      "fade_in_start": 0,
+      "fade_out_start": 7.1,
+      "images": [
+        {"name": "DenizenINTRO-1", "pos": [0,0], "depth": -1, "shader": "Basic"},
+      ],
+      "camera_path": [ [10, 15, 0], [8.7, 5, 1] ]
+    },
+    {
+      "name": "scene2",
+      "fade_in_start": 8.1,
+      "fade_in_end": 10.1,
+      "fade_out_start": 15,
+      "images": [
+        {"name": "DenizenINTRO-2", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene3",
+      "fade_in_start": 16.1,
+      "fade_in_end": 21.1,
+      "fade_out_start": 23,
+      "images": [
+        {"name": "DenizenINTRO-3", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene4",
+      "fade_in_start": 24.1,
+      "fade_in_end": 27.1,
+      "fade_out_start": 30,
+      "images": [
+        {"name": "DenizenINTRO-4", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene5",
+      "fade_in_start": 32.1,
+      "fade_in_end": 36.1,
+      "fade_out_start": 38,
+      "images": [
+        {"name": "DenizenINTRO-5", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene6",
+      "fade_in_start": 40.1,
+      "fade_in_end": 41.1,
+      "fade_out_start": 46,
+      "images": [
+        {"name": "DenizenINTRO-6", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene7",
+      "fade_in_start": 48.1,
+      "fade_in_end": 50.1,
+      "fade_out_start": 53,
+      "images": [
+        {"name": "DenizenINTRO-7", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene8",
+      "fade_in_start": 56.1,
+      "fade_in_end": 58.1,
+      "fade_out_start": 60,
+      "images": [
+        {"name": "DenizenINTRO-8", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene9",
+      "fade_in_start": 64.1,
+      "fade_in_end": 65.1,
+      "fade_out_start": 66,
+      "images": [
+        {"name": "DenizenINTRO-9", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+    },
+    {
+      "name": "scene10",
+      "fade_in_start": 72.1,
+      "fade_in_end": 75.1,
+      "fade_out_start": 88,
+      "images": [
+        {"name": "DenizenINTRO-10", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+      "camera_path": [ [8.7, 5, 1], [10, 15, 0.7] ]
+    }
+  ]
+}
